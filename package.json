@@ -1,0 +1,19 @@
+{
+  "name": "@appnroll/appnroll-app-function-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Appnroll/appnroll-app-function-component.git"
+  },
+  "author": "@appnroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Appnroll/appnroll-app-function-component/issues"
+  },
+  "homepage": "https://github.com/Appnroll/appnroll-app-function-component#readme"
+}
